@@ -9,7 +9,7 @@ Steps to build it:
 
 -. Create a folder `mkdir <project_name>` and `cd <project_name>`
 
--. Create a virtual environment `python3 -m env venv` ("env" is the virtual environment name)
+-. Create a virtual environment `python3 -m venv env` ("env" is the virtual environment name)
 
 -. Activate the virtual environment using `source env/bin/activate`
 
